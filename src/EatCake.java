@@ -16,6 +16,6 @@ public class EatCake {
 	public static void main(String[] args) {
 		Cake cake = new Cake();
 		eatCake(cake);
-		System.out.println("Done eating the cake");
+		System.out.println("Done eating the cake" + " - ready to go back to Java 2!!!");
 	}
 }
